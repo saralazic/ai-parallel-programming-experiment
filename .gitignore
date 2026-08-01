@@ -1,7 +1,7 @@
 # WIP - remove from gitignore when ready
 evaluation/
 methodology/
-README.md
+/README.md
 
 # OS
 .DS_Store
